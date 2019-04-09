@@ -1,0 +1,7 @@
+I observe during the troubleshooting, We don't have the right tools 
+but we use  an alternative tools so we can troubleshoot the system 
+unit.First the CPU power is turn on but the CPU does not. We found
+out that the power supply fuse is fried.
+
+Replace the fuse from the power supply then turn on the CPU then 
+troubleshoot if any problem were found then troubleshoot further
